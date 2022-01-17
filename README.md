@@ -4,3 +4,5 @@
 This is a place to store all my homework in the course "Machine Learning ".
 
 week 1: PCA
+week 2: t-SNE
+
